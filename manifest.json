@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "5Store",
+  "short_name": "5Store",
+  "description": "5Store online food ordering for breakfast, lunch, dinner and Dawat food with local delivery.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#fc8019",
+  "categories": ["food", "shopping"],
+  "icons": [
+    {"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcSTy13mvq81nrbrY7k5wI616G-G186ylAD9HKqXDZ65uWN6113RD3YB7SZNSINdD4HvY-oOBl8MR-aTKjbfp856L6FRwZYKR_qkkjXcfQShvRbY9SaMUQRoTpibiwEtz_HpgXIcVOwxr9Bb9E6mjkiY5lbjVDiwS1ZNfZedCBANFAIorFKTlQPjE5xcg/s192/Screenshot%202026-09-19%20195014.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcSTy13mvq81nrbrY7k5wI616G-G186ylAD9HKqXDZ65uWN6113RD3YB7SZNSINdD4HvY-oOBl8MR-aTKjbfp856L6FRwZYKR_qkkjXcfQShvRbY9SaMUQRoTpibiwEtz_HpgXIcVOwxr9Bb9E6mjkiY5lbjVDiwS1ZNfZedCBANFAIorFKTlQPjE5xcg/s512/Screenshot%202026-09-19%20195014.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Order Food", "short_name": "Order", "url": "/"},
+    {"name": "My Orders", "short_name": "Orders", "url": "/"}
+  ]
+}
